@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=QBriscola
+GenericName=QBriscola
+Comment=Simulatore del gioco italiano della briscola.
+Icon=qbriscola.png
+Exec=qbriscola %f
+Terminal=false
+Categories=Qt;Game;CardGame;
+StartupNotify=true
